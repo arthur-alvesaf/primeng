@@ -1,6 +1,6 @@
 {
   "name": "primeng",
-  "version": "14.2.3",
+  "version": "14.2.3-calendar-fix",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
